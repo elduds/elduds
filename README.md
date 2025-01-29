@@ -99,11 +99,11 @@ Perth, Western Australia
 ## Industry Certifications
 * AWS Certified Solutions Architect - Professional
 * AWS Certified DevOps Engineer - Professional
-* AWS Certified Advanced Networking - Specialty
+* [AWS Certified Advanced Networking - Specialty](https://www.credly.com/badges/adb6e45d-5931-4cf1-8082-8b8ef54617d3/public_url)
 * AWS Certified Security - Specialty
 * AWS Certified Solutions Architect - Associate
 * AWS Certified Developer - Associate
-* AWS Certified DevOps Engineer - Associate
+* AWS Certified SysOps Administrator - Associate
 * VMware Certified Advanced Professional - Data Centre Design
 * VMware Certified Advanced Professional - Data Centre Administration 
 * VMware Certified Advanced Professional - Cloud Infrastructure Administration 
