@@ -1,35 +1,30 @@
-## Hi there 👋
-
-<!--
-**elduds/elduds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Luke Dudney 
-
 [![Email](https://img.shields.io/badge/luke%40lukedudney.com-%2330B980.svg?logo=minutemailer&logoColor=white)](mailto:luke@lukedudney.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%23003A9B.svg?logo=inspire&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
+## Hi there 👋
 I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in IT across various industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
-For the past 10 years I have pursued my current passion for IT automation, infrastructure architecture and AWS public cloud technologies. Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
+For the past 10 years I have pursued my current passion for IT automation, infrastructure architecture and AWS public cloud technologies. 
 
 Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting business activity with yearly revenues of c. 20 billion USD, 8 digit yearly cloud spend, and the development of an compelling & amazing roadmap of green energy technologies and capabilities.
+
+Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
 
 Perth, Western Australia
 ![Perth WA](https://upload.wikimedia.org/wikipedia/commons/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg)
 
 📎 [My updated old fashion PDF **resume**]()
+
+## Skills I'm most competent in
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
+* Software Development
+* Devops and Automation
+* Infrastructure as Code
+* Linux Systems Engineering and Administration
+* Modern Application Infrastructure Design
+* Networking and TCP/IP
+![Storage&Filesystems](https://img.shields.io/badge/Storage%20%26%20Filesystems%0A-%23AECBFA?logo=google-cloud-storage&logoColor=white)
+![Linux Performance Troubleshooting](https://img.shields.io/badge/Linux%20Performance%20Troubleshooting-%23EA4335?logo=falcon&logoColor=white)
 
 ## Technologies I currently ❤️ to work with
 
@@ -67,16 +62,17 @@ Perth, Western Australia
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-%23FF6600?logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000?logo=red-hat&logoColor=white)
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
 ![SLURM](https://img.shields.io/badge/Slurm-%23009FDA?logo=slurm&logoColor=white)
+
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%239146FF?logo=trpc&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-%238C4FFF?logo=amazon-route-53&logoColor=white)
 ![Routing](https://img.shields.io/badge/Routing-%239146FF?logo=trpc&logoColor=white)
 ![Firewalls](https://img.shields.io/badge/Firewalls-%23CD5029?logo=firefly-iii&logoColor=white)
 ![WAF](https://img.shields.io/badge/WAF-%232C5BB4?logo=aiohttp&logoColor=white)
-![Storage&Filesystems](https://img.shields.io/badge/Storage%20%26%20Filesystems%0A-%23AECBFA?logo=google-cloud-storage&logoColor=white)
-![Linux Performance Troubleshooting](https://img.shields.io/badge/Linux%20Performance%20Troubleshooting-%23EA4335?logo=falcon&logoColor=white)
+
 
 ![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-%23607078?logo=vmware&logoColor=white)
 ![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20%26%20Nexus-%231BA0D7?logo=cisco&logoColor=white)
