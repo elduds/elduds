@@ -116,7 +116,7 @@ Perth, Western Australia
 
 ## Other Industry Recognition
 * [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
-
+* Professional Publication [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security.
 ---
 
 ## Location
@@ -136,7 +136,7 @@ I have also lived in London 🌧🏙️🌧
 | [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009<br> Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
 | [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008<br> May 2009 | Senior Unix Systems Administrator | |
 | [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007<br> Jun 2008 | Hosting and Operations Analyst | |
-| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | |
+| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
 
 ## Studies
 * Bachelor of Science (Computer Science), incomplete
