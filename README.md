@@ -142,7 +142,7 @@ I have also lived in London 🌧🏙️🌧
 * Bachelor of Science (Computer Science), incomplete
 * Bachelor of Science (Physics), incomplete
 
-Straight out of high school in 1998 I completed two semesters of an undergraduate double degree in computer science and physics, my two intellectual catnips. The tiny regional internet service provider [WestNet](https://www.westnet.com.au/) I was casually working for at the time offered me a promotion and the opportunity to build and manage an Australia-wide communications network and the supporting server infrastructure needed to support the business plan. Over the next 8 years I helped to scale the business 4000x from 10,000 to 400,000 customers which satisified my intellectual cravings for using smart technology to deliver outstanding customer and business outcomes.
+Straight out of high school in 1998 I completed two semesters of an undergraduate double degree in computer science and physics, my two intellectual catnips. The tiny regional internet service provider [WestNet](https://www.westnet.com.au/) I was casually working for at the time offered me a promotion and the opportunity to build and manage an Australia-wide communications network and the supporting server infrastructure needed to support the business plan. Over the next 8 years I helped to scale the business 4000x from 10,000 to 400,000 customers which satisified my intellectual cravings for being at the forefront of the nascent internet and using smart technology such as Linux and open source to deliver outstanding customer and business outcomes.
 
 
 ---
