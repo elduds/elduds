@@ -63,7 +63,7 @@ Perth, Western Australia
 ![HCL](https://img.shields.io/badge/HCL-%238C4FFF.svg?logo=hashicorp&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-%23B41717.svg?logo=jinja&logoColor=white)
 
-![VMware](https://img.shields.io/badge/VMware-%23607078?logo=vmware&logoColor=white)
+
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-%23FF6600?logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000?logo=red-hat&logoColor=white)
 
@@ -73,8 +73,15 @@ Perth, Western Australia
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%239146FF?logo=trpc&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-%238C4FFF?logo=amazon-route-53&logoColor=white)
 ![Routing](https://img.shields.io/badge/Routing-%239146FF?logo=trpc&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-%23CD5029?logo=firefly-iii&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-%232C5BB4?logo=aiohttp&logoColor=white)
 ![Storage&Filesystems](https://img.shields.io/badge/Storage%20%26%20Filesystems%0A-%23AECBFA?logo=google-cloud-storage&logoColor=white)
 ![Linux Performance Troubleshooting](https://img.shields.io/badge/Linux%20Performance%20Troubleshooting-%23EA4335?logo=falcon&logoColor=white)
+
+![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-%23607078?logo=vmware&logoColor=white)
+![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20%26%20Nexus-%231BA0D7?logo=cisco&logoColor=white)
+![NetApp](https://img.shields.io/badge/NetApp-%230067C5?logo=netapp&logoColor=white)
+
 
 ## Technologies I am familiar with
 
@@ -106,7 +113,7 @@ Perth, Western Australia
 * VMware Certified Professional - Cloud
 
 ## Other Industry Recognition
-* [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) -- one of a handful of hand-picked elite architects from the VMware partner community
+* [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017-- one of a handful of hand-picked elite architects from the VMware partner community
 
 
 ## Technologies I want to learn more
