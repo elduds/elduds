@@ -97,13 +97,17 @@ Perth, Western Australia
 
 
 ## Industry Certifications
-* AWS Certified Solutions Architect - Professional
+![AWS Certified Solutions Architect - Professional](https://raw.githubusercontent.com/elduds/elduds/refs/heads/initial-README/img/aws-certified-solutions-architect-professional.png) [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/c864f8f1-6bc4-4d0a-be52-137c952d0b17/public_url)
+
+![AWS Certified Advanced Networking - Specialty](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-advanced-networking-specialty.png) [AWS Certified Advanced Networking - Specialty](https://www.credly.com/badges/adb6e45d-5931-4cf1-8082-8b8ef54617d3/public_url)
+
 * AWS Certified DevOps Engineer - Professional
-* [AWS Certified Advanced Networking - Specialty](https://www.credly.com/badges/adb6e45d-5931-4cf1-8082-8b8ef54617d3/public_url)
 * AWS Certified Security - Specialty
 * AWS Certified Solutions Architect - Associate
 * AWS Certified Developer - Associate
-* AWS Certified SysOps Administrator - Associate
+  
+![AWS Certified SysOps Administrator - Associate](https://raw.githubusercontent.com/elduds/elduds/refs/heads/initial-README/img/aws-certified-sysops-administrator-associate.png)
+
 * VMware Certified Advanced Professional - Data Centre Design
 * VMware Certified Advanced Professional - Data Centre Administration 
 * VMware Certified Advanced Professional - Cloud Infrastructure Administration 
