@@ -18,35 +18,62 @@ Here are some ideas to get you started:
 
 # Luke Dudney 
 
-[luke@lukedudney.com](mailto:luke@lukedudney.com)
+[![Email](https://img.shields.io/badge/luke%40lukedudney.com-%2330B980.svg?logo=minutemailer&logoColor=white)](mailto:luke@lukedudney.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%23003A9B.svg?logo=inspire&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
+Perth, Western Australia
 
-I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in the IT industry across various industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
+I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in IT across various industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
-For the past 10 years I have pursued my current passion for IT automation and AWS public cloud technologies. Prior to that I focussed on enterprise datacentre platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
+For the past 10 years I have pursued my current passion for IT automation, infrastructure architecture and AWS public cloud technologies. Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
 
-Currently I am the lead AWS Cloud Platform subject matter expert for a ASX10 global mining and green energy company, supporting business activity with yearly revenues of c. 20 billion USD and 8 digit yearly cloud spend.
+Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting business activity with yearly revenues of c. 20 billion USD, 8 digit yearly cloud spend, and the development of an compelling & amazing roadmap of green energy technologies and capabilities.
 
 📎 [My updated old fashion PDF **resume**]()
 
 ## Technologies I currently ❤️ to work with
 
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%23000000.svg?logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/cloudformation-%23000000.svg?logo=cloudformation&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?logo=amazon-web-services&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=amazon-ec2&logoColor=white)
+![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%239146FF.svg?logo=aws-vpc&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?logo=amazon-rds&logoColor=white)
+![AWS Organizations](https://img.shields.io/badge/AWS%20Organizations-%23E7157B.svg?logo=aws-organizations&logoColor=white)
+![AWS Elastic Load Balancing](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-%238C4FFF.svg?logo=aws-elastic-load-balancing&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF4F8B.svg?logo=aws-organizations&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?logo=amazon-s3&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-%23527FFF.svg?logo=amazon-rds&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-%23FF9900.svg?logo=amazon-s3&logoColor=white)
+![AWS Developer Tools](https://img.shields.io/badge/AWS%20Developer%20Tools-%23FF9900.svg?logo=aws-&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/terraform-%238C4FFF.svg?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![CloudFormation](https://img.shields.io/badge/cloudformation-%23000000.svg?logo=cloudformation&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?logo=githubactions&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-%238C4FFF.svg?logo=hashicorp&logoColor=white)
 
-![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%239146FF?logo=ubuntu&logoColor=white)
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-%23FF6600?logo=ubuntu&logoColor=white)
+![SLURM](https://img.shields.io/badge/Slurm-%23009FDA?logo=slurm&logoColor=white)
+
+## Technologies I am familiar with
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23#4169E1.svg?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
+
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
+
 
 ## Industry Certifications
-* AWS Certified Solutions Architect Professional
-* AWS Certified DevOps Engineer Professional
+* AWS Certified Solutions Architect - Professional
+* AWS Certified DevOps Engineer - Professional
 * AWS Certified Advanced Networking - Specialty
 * AWS Certified Security - Specialty
 * AWS Certified Solutions Architect - Associate
@@ -65,7 +92,7 @@ Currently I am the lead AWS Cloud Platform subject matter expert for a ASX10 glo
 
 
 ## Technologies I want to learn more
-
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?logo=zig&logoColor=white)
