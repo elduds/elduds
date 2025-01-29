@@ -125,18 +125,18 @@ I am based in Perth, Western Australia and can  work remotely.
 I have also lived in London 🌧🏙️🌧
 
 ## Work experience
-| Where | Industry | When | As | Did |
+| Where | Industry | From/Until | As | Did |
 | --- | --- | --- | --- | --- |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2021 - Present | Senior DevOps Engineer - Cloud Platform | |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2020 - Feb 2021 | Senior DevOps Engineer - Integration Platform | |
-| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019 - Feb 2021 | Senior Cloud Architect | |
-| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017 - Aug 2019 | Senior Systems Engineer | |
-| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014 - Sep 2017 | Solution Architect | |
-| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011 - Aug 2014 | Senior Systems Engineer | |
-| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009 - Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
-| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008 - May 2009 | Senior Unix Systems Administrator | |
-| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007 - Jun 2008 | Hosting and Operations Analyst | |
-| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999 - Jun 2007 | Head of Systems & Services | |
+| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2021<br>Present | Senior DevOps Engineer - Cloud Platform | |
+| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2020<br> Feb 2021 | Senior DevOps Engineer - Integration Platform | |
+| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019<br> Feb 2021 | Senior Cloud Architect | |
+| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017<br> Aug 2019 | Senior Systems Engineer | |
+| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014<br> Sep 2017 | Solution Architect | |
+| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011<br> Aug 2014 | Senior Systems Engineer | |
+| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009<br> Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
+| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008<br> May 2009 | Senior Unix Systems Administrator | |
+| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007<br> Jun 2008 | Hosting and Operations Analyst | |
+| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | |
 
 ## Studies
 * Bachelor of Science (Computer Science), incomplete
