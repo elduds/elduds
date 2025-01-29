@@ -22,6 +22,7 @@ Perth, Western Australia
 * CI/CD
 * Linux Systems Engineering and Administration
 * Scalable Application Infrastructure Design
+* High Performance Computing (HPC) Infrastructure
 * Storage & Filesystems
 * Linux Performance Troubleshooting
 * Networking, TCP/IP, Routing and Network Troubleshooting
