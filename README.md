@@ -4,7 +4,7 @@
 ## Hi there 👋
 I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in IT across various industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
-For the past 10 years I have pursued my current passion for IT automation, infrastructure architecture and AWS public cloud technologies. 
+For the past 10 years I have pursued my current passion for IT automation, Linux Systems Engineering, infrastructure architecture and AWS public cloud technologies. 
 
 Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting business activity with yearly revenues of c. 20 billion USD, 8 digit yearly cloud spend, and the development of an compelling & amazing roadmap of green energy technologies and capabilities.
 
@@ -15,17 +15,18 @@ Perth, Western Australia
 
 📎 [My updated old fashion PDF **resume**]()
 
-## Skills I'm most competent in
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
-* Software Development
+## Capabilities I'm most proud of
+* Software Development SDLC
 * Devops and Automation
 * Infrastructure as Code
+* CI/CD
 * Linux Systems Engineering and Administration
-* Modern Application Infrastructure Design
-* Networking and TCP/IP
-![Storage&Filesystems](https://img.shields.io/badge/Storage%20%26%20Filesystems%0A-%23AECBFA?logo=google-cloud-storage&logoColor=white)
-![Linux Performance Troubleshooting](https://img.shields.io/badge/Linux%20Performance%20Troubleshooting-%23EA4335?logo=falcon&logoColor=white)
-
+* Scalable Application Infrastructure Design
+* Storage & Filesystems
+* Linux Performance Troubleshooting
+* Networking, TCP/IP, Routing and Network Troubleshooting
+* Packet Capture Analysis
+  
 ## Technologies I currently ❤️ to work with
 
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?logo=amazon-web-services&logoColor=white)
@@ -33,6 +34,7 @@ Perth, Western Australia
 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=amazon-ec2&logoColor=white)
 ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%239146FF.svg?logo=aws-vpc&logoColor=white)
+[![AWS Parallel Cluster](https://img.shields.io/badge/AWS%20Parallel%20Cluster-%23F97316.svg?logo=graphql&logoColor=white)](https://github.com/aws/aws-parallelcluster)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?logo=amazon-rds&logoColor=white)
 ![AWS Organizations](https://img.shields.io/badge/AWS%20Organizations-%23E7157B.svg?logo=aws-organizations&logoColor=white)
@@ -130,80 +132,33 @@ Perth, Western Australia
 
 ---
 
-## Technologies I am familiar with
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?logo=datadog&logoColor=white)
-
-
----
-
-## Technologies I used in the past
-
-Additional note: which I would ideally like to avoid now!
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
-
-![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
-
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
-![Lineageos](https://img.shields.io/badge/lineageos-167C80?logo=lineageos&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
-
----
 
 ## Location
 
-I am based in Luxembourg 🇱🇺 and work remotely.
+I am based in Perth, Western Australia and can  work remotely.
 
-I lived in Montreal ⛄️, New York 🌆, Luxembourg 🇱🇺, London 🌧 and Nice 😎 before
+I have also lived in London 🌧🏙️🌧
 
 ## Work experience
 
-| Where | Dates | What |
-| --- | --- | --- |
-| ChainSafe, Toronto | Oct'21 to Feb'23 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white) for ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white) |
-| DistrictM, Montreal | Since Jun'20 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white) in Ad tech |
-| USA Today network (SweetIQ), Montreal | Feb-Jun'20 | ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) in newspapers |
-| SweetIQ, Montreal | Sep'19 to Feb'20 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white) in places listing |
-| Independent, Luxembourg | Aug'18 - Jul'19 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white) & ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white) |
-| Coinplus, Luxembourg | Apr'15 - Sep'16 | ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) for ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?logo=bitcoin&logoColor=white) and cryptography |
-| STMicro, France |  Jun-Sep'14 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) for Android OS and app |
+| Where | Industry | When | As | Did |
+| --- | --- | --- | --- | --- |
+| [Fortescue](https://www.fortescue.com/en) | Mining & Energy | Feb 2021 - Present | Senior DevOps Engineer - Cloud Platform | |
+| [Fortescue](https://www.fortescue.com/en) | Mining & Energy | Feb 2020 - Feb 2021 | Senior DevOps Engineer - Integration Platform | |
+| [ES2](https://www.es2.com.au/) | Professional Services | Aug 2019 - Feb 2021 | Senior Cloud Architect | |
+| [KZN](https://kzn.io) | Professional Services | Sep 2017 - Aug 2019 | Senior Systems Engineer | |
+| [Xpanse](https://www.xpanse.com.au/) | Professional Services | Aug 2014 - Sep 2017 | Solution Architect | |
+| [iiNet](https://www.iinet.net.au/) | Telecommunications | Dec 2011 - Aug 2014 | Senior Systems Engineer | |
 
 ## Studies
-
-| Where | Dates | What |
-| --- | --- | --- |
-| New York University (NYC) | Sep'16-May'18 | [Masters in CS]((https://cs.nyu.edu/home/master/prospective_mscs.html)) |
-| Imperial College London | Sep'12-Jul'16 | [Masters in EEE & Management]((https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-management/)) |
 
 ## Open source projects
 
 The most famous being in order:
 
-- [Gluetun](https://github.com/qdm12/gluetun)
-- [DDNS updater](https://github.com/qdm12/ddns-updater)
-- [DNS forwarding server](https://github.com/qdm12/dns/tree/v2.0.0-beta)
 
 More recent projects:
 
-- [goservices](https://github.com/qdm12/goservices) to handle long running services in ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
-- [log](https://github.com/qdm12/log) a thread safe, extensible logging library in ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
-- [godevcontainer](https://github.com/qdm12/godevcontainer) the best ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white) development container for ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) out there!
 
 The rest, see my ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 😄
 
@@ -221,16 +176,5 @@ The rest, see my ![GitHub](https://img.shields.io/badge/github-%23121011.svg?sty
 - 〽️ I like having metrics, for everything metric-able and display them with *Grafana*
 - 🔒 I like having a tight network security
 - 🧪 I like writing tests and have them superfast! ⚡
-- My reverse proxy of choice is [**Caddy v2**](https://caddyserver.com/v2)
-- My Docker image of choice is [Alpine](https://hub.docker.com/_/alpine) or [Scratch](https://hub.docker.com/_/scratch) if possible (who needs a *shell* right?)
-- I use [Mosh, the mobile shell](https://mosh.org/)
-- I learnt and forgot [the Shrodinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
-- I had a horrible time reading French literature books in highscool
-- My current phone in a few icons
-  ![ASUS](https://img.shields.io/badge/asus-000080.svg?logo=asus&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-  ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?logo=google%20assistant&logoColor=white)
-  ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?logo=Signal&logoColor=white)
-  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
 
 🎉 Thanks for looking 👍
