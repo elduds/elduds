@@ -57,6 +57,7 @@ Perth, Western Australia
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-%238C4FFF.svg?logo=hashicorp&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-%23B41717.svg?logo=jinja&logoColor=white)
 
 
@@ -115,22 +116,7 @@ Perth, Western Australia
 ## Other Industry Recognition
 * [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
 
-## Technologies I want to learn more
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?logo=go&logoColor=white)
-
-## Technologies I have used in the past
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
-* Solaris
-* Apache JBOss
-* F5 Load Balancing
-* Fibre Channel and iSCSI
-* 
 ---
-
 
 ## Location
 I am based in Perth, Western Australia and can  work remotely.
@@ -156,6 +142,25 @@ I have also lived in London 🌧🏙️🌧
 * Bachelor of Science (Physics), incomplete
 
 Straight out of high school in 1998 I completed two semesters of an undergraduate double degree in computer science and physics, my two intellectual catnips. The tiny regional internet service provider [WestNet](https://www.westnet.com.au/) I was casually working for at the time offered me a promotion and the opportunity to build and manage an Australia-wide communications network and the supporting server infrastructure needed to support the business plan. Over the next 8 years I helped to scale the business 4000x from 10,000 to 400,000 customers which satisified my intellectual cravings for using smart technology to deliver outstanding customer and business outcomes.
+
+
+---
+## Technologies I want to learn more
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?logo=go&logoColor=white)
+
+## Technologies I have used in the past
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
+* Solaris
+* Apache JBOss
+* F5 Load Balancing
+* Fibre Channel and iSCSI
+
+
+---
 
 
 ## Open source projects
