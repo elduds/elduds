@@ -2,7 +2,7 @@
 [![Email](https://img.shields.io/badge/luke%40lukedudney.com-%2330B980.svg?logo=minutemailer&logoColor=white)](mailto:luke@lukedudney.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%23003A9B.svg?logo=inspire&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
 ## Hi there 👋
-I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in IT across industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
+I'm Luke -- a systems, infrastructure, cloud and DevOps engineer with over 25 years experience in IT across industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
 For the past 10 years I have pursued my current passion for IT automation, Linux systems engineering, infrastructure architecture and AWS public cloud technologies. 
 
