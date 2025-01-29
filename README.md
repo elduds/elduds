@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 # Luke Dudney 
 
 [luke@lukedudney.com](mailto:luke@lukedudney.com)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
 I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in the IT industry across various industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
-For the past 10 years I have pursued my current passion for IT automation and public cloud technologies. Prior to that I focussed on enterprise datacentre platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security).
+For the past 10 years I have pursued my current passion for IT automation and AWS public cloud technologies. Prior to that I focussed on enterprise datacentre platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
+
+Currently I am the lead AWS Cloud Platform subject matter expert for a ASX10 global mining and green energy company, supporting business activity with yearly revenues of c. 20 billion USD and 8 digit yearly cloud spend.
 
 📎 [My updated old fashion PDF **resume**]()
 
@@ -41,18 +44,25 @@ For the past 10 years I have pursued my current passion for IT automation and pu
 
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-## Certifications
-•	AWS Certified Solutions Architect Professional
-•	AWS Certified DevOps Engineer Professional
-•	VMware Certified Advanced Professional -  Data Centre Administration 
-•	VMware Certified Advanced Professional - Cloud Infrastructure Administration 
-•	VMware Certified Advanced Professional - Data Centre Design
-•	Cisco Certified Network Associate (CCNA) Data Centre
-•	Red Hat Certified Engineer (RHCE) on RHEL 6
-•	VMware Certified Professional – Data Centre Virtualisation
-•	VMware Certified Professional - Cloud
+## Industry Certifications
+* AWS Certified Solutions Architect Professional
+* AWS Certified DevOps Engineer Professional
+* AWS Certified Advanced Networking - Specialty
+* AWS Certified Security - Specialty
+* AWS Certified Solutions Architect - Associate
+* AWS Certified Developer - Associate
+* AWS Certified DevOps Engineer - Associate
+* VMware Certified Advanced Professional - Data Centre Design
+* VMware Certified Advanced Professional - Data Centre Administration 
+* VMware Certified Advanced Professional - Cloud Infrastructure Administration 
+* Cisco Certified Network Associate (CCNA) Data Centre
+* Red Hat Certified Engineer (RHCE) on RHEL 6
+* VMware Certified Professional – Data Centre Virtualisation
+* VMware Certified Professional - Cloud
 
----
+## Other Industry Recognition
+* [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) -- one of a handful of hand-picked elite architects from the VMware partner community
+
 
 ## Technologies I want to learn more
 
