@@ -20,19 +20,22 @@ Here are some ideas to get you started:
 
 [![Email](https://img.shields.io/badge/luke%40lukedudney.com-%2330B980.svg?logo=minutemailer&logoColor=white)](mailto:luke@lukedudney.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%23003A9B.svg?logo=inspire&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
-Perth, Western Australia
-
 I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in IT across various industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
 For the past 10 years I have pursued my current passion for IT automation, infrastructure architecture and AWS public cloud technologies. Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
 
 Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting business activity with yearly revenues of c. 20 billion USD, 8 digit yearly cloud spend, and the development of an compelling & amazing roadmap of green energy technologies and capabilities.
 
+Perth, Western Australia
+![Perth WA](https://upload.wikimedia.org/wikipedia/commons/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg)
+
 📎 [My updated old fashion PDF **resume**]()
 
 ## Technologies I currently ❤️ to work with
 
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?logo=amazon-web-services&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white)
+
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=amazon-ec2&logoColor=white)
 ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%239146FF.svg?logo=aws-vpc&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)
@@ -48,23 +51,29 @@ Currently I am the lead AWS Cloud and High Performance Compute Platform subject 
 ![Terraform](https://img.shields.io/badge/terraform-%238C4FFF.svg?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![CloudFormation](https://img.shields.io/badge/cloudformation-%23000000.svg?logo=cloudformation&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS%20Cloudformation-%2376BB21.svg?logo=hack-the-box&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?logo=githubactions&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-%2302A8EF.svg?logo=packer&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-%238C4FFF.svg?logo=hashicorp&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-%23B41717.svg?logo=jinja&logoColor=white)
 
+
+![VMware](https://img.shields.io/badge/VMware-%23607078?logo=vmware&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%239146FF?logo=ubuntu&logoColor=white)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-%23FF6600?logo=ubuntu&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-%238C4FFF?logo=amazon-route-53&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
 ![SLURM](https://img.shields.io/badge/Slurm-%23009FDA?logo=slurm&logoColor=white)
 
 ## Technologies I am familiar with
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23#4169E1.svg?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
@@ -93,7 +102,7 @@ Currently I am the lead AWS Cloud and High Performance Compute Platform subject 
 
 ## Technologies I want to learn more
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?logo=zig&logoColor=white)
 
@@ -105,51 +114,6 @@ Currently I am the lead AWS Cloud and High Performance Compute Platform subject 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?logo=datadog&logoColor=white)
 
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?logo=codecov&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?logo=gitlab&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-
-![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?logo=bitcoin&logoColor=white)
-
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white)
-
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?logo=vagrant&logoColor=white)
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
-
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?logo=inkscape&logoColor=080A13)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF)
-![Invision](https://img.shields.io/badge/invision-FF3366?logo=invision&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white)
-
-![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?logo=rancher&logoColor=white)
-
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
-![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)
 
 ---
 
