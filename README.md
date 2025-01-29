@@ -63,18 +63,27 @@ Perth, Western Australia
 ![HCL](https://img.shields.io/badge/HCL-%238C4FFF.svg?logo=hashicorp&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-%23B41717.svg?logo=jinja&logoColor=white)
 
-
 ![VMware](https://img.shields.io/badge/VMware-%23607078?logo=vmware&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%239146FF?logo=ubuntu&logoColor=white)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-%23FF6600?logo=ubuntu&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-%238C4FFF?logo=amazon-route-53&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000?logo=red-hat&logoColor=white)
+
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
 ![SLURM](https://img.shields.io/badge/Slurm-%23009FDA?logo=slurm&logoColor=white)
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%239146FF?logo=trpc&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-%238C4FFF?logo=amazon-route-53&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-%239146FF?logo=trpc&logoColor=white)
+![Storage&Filesystems](https://img.shields.io/badge/Storage%20%26%20Filesystems%0A-%23AECBFA?logo=google-cloud-storage&logoColor=white)
+![Linux Performance Troubleshooting](https://img.shields.io/badge/Linux%20Performance%20Troubleshooting-%23EA4335?logo=falcon&logoColor=white)
 
 ## Technologies I am familiar with
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
+![SUSE_Linux](https://img.shields.io/badge/SUSE%20Linux-%230C322C?logo=suse&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%236D00CC?logo=make&logoColor=white)
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
@@ -105,6 +114,12 @@ Perth, Western Australia
 ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?logo=zig&logoColor=white)
+
+## Technologies I used in the past
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
 
 ---
 
