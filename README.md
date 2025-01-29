@@ -2,11 +2,11 @@
 [![Email](https://img.shields.io/badge/luke%40lukedudney.com-%2330B980.svg?logo=minutemailer&logoColor=white)](mailto:luke@lukedudney.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%23003A9B.svg?logo=inspire&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
 ## Hi there 👋
-I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in IT across various industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
+I'm Luke -- a systems, infrastructure, cloud and devops engineer with over 25 years experience in IT across industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
-For the past 10 years I have pursued my current passion for IT automation, Linux Systems Engineering, infrastructure architecture and AWS public cloud technologies. 
+For the past 10 years I have pursued my current passion for IT automation, Linux systems engineering, infrastructure architecture and AWS public cloud technologies. 
 
-Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting business activity with yearly revenues of c. 20 billion USD, 8 digit yearly cloud spend, and the development of an compelling & amazing roadmap of green energy technologies and capabilities.
+Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting yearly business activity of c. 30 billion USD, 8 digit yearly cloud spend, and the development of a compelling & amazing roadmap of green energy technologies and capabilities.
 
 Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
 
@@ -15,7 +15,7 @@ Perth, Western Australia
 
 📎 [My updated old fashion PDF **resume**]()
 
-## Capabilities I'm most proud of
+## Capabilities I am most 🤗 proud of
 * Software Development SDLC
 * Devops and Automation
 * Infrastructure as Code
@@ -27,8 +27,7 @@ Perth, Western Australia
 * Networking, TCP/IP, Routing and Network Troubleshooting
 * Packet Capture Analysis
   
-## Technologies I currently ❤️ to work with
-
+## Technologies I ❤️ love to work with
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?logo=amazon-web-services&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white)
 
@@ -81,8 +80,7 @@ Perth, Western Australia
 ![NetApp](https://img.shields.io/badge/NetApp-%230067C5?logo=netapp&logoColor=white)
 
 
-## Technologies I am familiar with
-
+## Technologies I am 🤷‍♂️ OK with
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 
@@ -115,8 +113,7 @@ Perth, Western Australia
 * VMware Certified Professional - Cloud
 
 ## Other Industry Recognition
-* [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017-- one of a handful of hand-picked elite architects from the VMware partner community
-
+* [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
 
 ## Technologies I want to learn more
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
@@ -124,33 +121,43 @@ Perth, Western Australia
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?logo=zig&logoColor=white)
 
-## Technologies I used in the past
-
+## Technologies I have used in the past
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
-
+* Solaris
+* Apache JBOss
+* F5 Load Balancing
+* Fibre Channel and iSCSI
+* 
 ---
 
 
 ## Location
-
 I am based in Perth, Western Australia and can  work remotely.
 
 I have also lived in London 🌧🏙️🌧
 
 ## Work experience
-
 | Where | Industry | When | As | Did |
 | --- | --- | --- | --- | --- |
-| [Fortescue](https://www.fortescue.com/en) | Mining & Energy | Feb 2021 - Present | Senior DevOps Engineer - Cloud Platform | |
-| [Fortescue](https://www.fortescue.com/en) | Mining & Energy | Feb 2020 - Feb 2021 | Senior DevOps Engineer - Integration Platform | |
-| [ES2](https://www.es2.com.au/) | Professional Services | Aug 2019 - Feb 2021 | Senior Cloud Architect | |
-| [KZN](https://kzn.io) | Professional Services | Sep 2017 - Aug 2019 | Senior Systems Engineer | |
-| [Xpanse](https://www.xpanse.com.au/) | Professional Services | Aug 2014 - Sep 2017 | Solution Architect | |
-| [iiNet](https://www.iinet.net.au/) | Telecommunications | Dec 2011 - Aug 2014 | Senior Systems Engineer | |
+| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2021 - Present | Senior DevOps Engineer - Cloud Platform | |
+| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2020 - Feb 2021 | Senior DevOps Engineer - Integration Platform | |
+| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019 - Feb 2021 | Senior Cloud Architect | |
+| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017 - Aug 2019 | Senior Systems Engineer | |
+| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014 - Sep 2017 | Solution Architect | |
+| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011 - Aug 2014 | Senior Systems Engineer | |
+| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009 - Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
+| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008 - May 2009 | Senior Unix Systems Administrator | |
+| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007 - Jun 2008 | Hosting and Operations Analyst | |
+| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999 - Jun 2007 | Head of Systems & Services | |
 
 ## Studies
+* Bachelor of Science (Computer Science), incomplete
+* Bachelor of Science (Physics), incomplete
+
+Straight out of high school in 1998 I completed two semesters of an undergraduate double degree in computer science and physics, my two intellectual catnips. The tiny regional internet service provider [WestNet](https://www.westnet.com.au/) I was casually working for at the time offered me a promotion and the opportunity to build and manage an Australia-wide communications network and the supporting server infrastructure needed to support the business plan. Over the next 8 years I helped to scale the business 4000x from 10,000 to 400,000 customers which satisified my intellectual cravings for using smart technology to deliver outstanding customer and business outcomes.
+
 
 ## Open source projects
 
@@ -159,22 +166,11 @@ The most famous being in order:
 
 More recent projects:
 
-
-The rest, see my ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 😄
-
 ## Other
-
-- I 🗣 French and English
-- I have 3 nationalities
-- I studied some managerial courses: corporate finance, economics, UK accouting, project management, innovation management and entrepreneurship
-
+- 
 ### Random facts
+- My favourite emoji is 🤔
+- 🧁Muffins are surprisingly high in calories
 
-- My favourite emoji is 👍
-- 🐳 I develop in ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) Docker containers
-- 🏠 I like self hosting everything, I even host my 2 own servers running Arch Linux
-- 〽️ I like having metrics, for everything metric-able and display them with *Grafana*
-- 🔒 I like having a tight network security
-- 🧪 I like writing tests and have them superfast! ⚡
 
 🎉 Thanks for looking 👍
