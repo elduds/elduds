@@ -6,7 +6,7 @@ I'm Luke -- a systems, infrastructure, cloud and DevOps engineer with over 25 ye
 
 For the past 10 years I have pursued my current passion for IT automation, Linux systems engineering, infrastructure architecture and AWS public cloud technologies. 
 
-Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting yearly business activity of c. 30 billion USD, 8 digit yearly cloud spend, and the development of a compelling & globally transformational roadmap of green energy technologies and capabilities.
+Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting yearly business activity of c. 30 billion USD, 8 digit yearly cloud spend, and the development of a compelling, globally transformational, and civilization saving roadmap of green energy technologies and capabilities.
 
 Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
 
