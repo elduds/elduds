@@ -118,8 +118,7 @@ Perth, Western Australia
 ## Technologies I want to learn more
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?logo=zig&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-%23000000.svg?logo=go&logoColor=white)
 
 ## Technologies I have used in the past
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
