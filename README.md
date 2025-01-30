@@ -10,7 +10,9 @@ Currently I am the lead AWS Cloud and High Performance Compute Platform subject 
 
 Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
 
+<!--
 📎 [My updated old fashion PDF **resume**]()
+-->
 
 ## Capabilities I am most 🤗 proud of
 * Software Development SDLC
