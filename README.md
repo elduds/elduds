@@ -6,14 +6,13 @@ I'm Luke -- a systems, infrastructure, cloud and DevOps engineer with over 25 ye
 
 For the past 10 years I have pursued my current passion for IT automation, Linux systems engineering, infrastructure architecture and AWS public cloud technologies. 
 
-Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting yearly business activity of c. 30 billion USD, 8 digit yearly cloud spend, and the development of a compelling, globally transformational, and civilization saving roadmap of green energy technologies and capabilities.
+Currently I am the lead AWS Cloud and High Performance Compute Platform subject matter expert for an [ASX 10](https://www.commsec.com.au/education/under-30s/Stock-up/Australias_10_largest_stocks.html) global mining and green energy company, supporting yearly business activity of c. 30 billion USD, 8 digit yearly cloud spend, and the development of a compelling, globally transformational, and potentially civilization saving roadmap of integrated green energy technologies and capabilities.
 
 Prior to that I focussed on enterprise datacentre and internet platforms such as servers, storage, VMware vSphere virtualisation, load balancing, fabric, networking and security.
 
-Perth, Western Australia
-![Perth WA](https://upload.wikimedia.org/wikipedia/commons/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg)
-
+<!--
 📎 [My updated old fashion PDF **resume**]()
+-->
 
 ## Capabilities I am most 🤗 proud of
 * Software Development SDLC
@@ -94,18 +93,16 @@ Perth, Western Australia
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
 
 
-## Industry Certifications
-![AWS Certified Solutions Architect - Professional](https://raw.githubusercontent.com/elduds/elduds/refs/heads/initial-README/img/aws-certified-solutions-architect-professional.png) [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/c864f8f1-6bc4-4d0a-be52-137c952d0b17/public_url)
+## Current Industry Certifications
+[![AWS Certified Solutions Architect - Professional](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-solutions-architect-professional.png)](https://www.credly.com/badges/c864f8f1-6bc4-4d0a-be52-137c952d0b17/public_url)
+[![AWS Certified DevOps Engineer - Professional](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-devops-engineer-professional.png)](https://www.credly.com/badges/faa9f2d1-805f-4f98-97b8-3a6647a565d8/public_url)
+[![AWS Certified Security - Specialty](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-security-specialty.png)](https://www.credly.com/badges/899c958b-8153-4ab1-a6d6-f007ff8fa353/public_url)
+[![AWS Certified Advanced Networking - Specialty](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-advanced-networking-specialty.png)](https://www.credly.com/badges/adb6e45d-5931-4cf1-8082-8b8ef54617d3/public_url)
+[![AWS Certified Solutions Architect - Associate](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/d2a7a24d-b449-4ae6-9667-4e50b60db9c1/public_url)
+[![AWS Certified Developer - Associate](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-developer-associate.png)](https://www.credly.com/badges/60a9465e-415f-4274-94a6-487cdd1b112e/public_url)
+![AWS Certified SysOps Administrator - Associate](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-sysops-administrator-associate.png)
 
-![AWS Certified Advanced Networking - Specialty](https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/aws-certified-advanced-networking-specialty.png) [AWS Certified Advanced Networking - Specialty](https://www.credly.com/badges/adb6e45d-5931-4cf1-8082-8b8ef54617d3/public_url)
-
-* AWS Certified DevOps Engineer - Professional
-* AWS Certified Security - Specialty
-* AWS Certified Solutions Architect - Associate
-* AWS Certified Developer - Associate
-  
-![AWS Certified SysOps Administrator - Associate](https://raw.githubusercontent.com/elduds/elduds/refs/heads/initial-README/img/aws-certified-sysops-administrator-associate.png)
-
+## Previous Industry Certifications
 * VMware Certified Advanced Professional - Data Centre Design
 * VMware Certified Advanced Professional - Data Centre Administration 
 * VMware Certified Advanced Professional - Cloud Infrastructure Administration 
@@ -116,11 +113,13 @@ Perth, Western Australia
 
 ## Other Industry Recognition
 * [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
-* Professional Publication [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security.
+* [Professional Publication](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) referenced in an [October 2006 memorandum](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) to the UK Parliament's Science & Technology Committee on Personal Internet Security.
 ---
 
 ## Location
 I am based in Perth, Western Australia and can  work remotely.
+
+![Perth WA](https://upload.wikimedia.org/wikipedia/commons/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg)
 
 I have also lived in London 🌧🏙️🌧
 
