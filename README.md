@@ -138,12 +138,13 @@ I have also lived in London 🌧🏙️🌧
 | [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007<br> Jun 2008 | Hosting and Operations Analyst | |
 | [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
 
+<!--
 ## Studies
 * Bachelor of Science (Computer Science), incomplete
 * Bachelor of Science (Physics), incomplete
 
 Straight out of high school in 1998 I completed two semesters of an undergraduate double degree in computer science and physics, my two intellectual catnips. The tiny regional internet service provider [WestNet](https://www.westnet.com.au/) I was casually working for at the time offered me a promotion and the opportunity to build and manage an Australia-wide communications network and the supporting server infrastructure needed to support the business plan. Over the next 8 years I helped to scale the business 400x from 10,000 to 400,000 customers which satisified my intellectual cravings for being at the forefront of the nascent internet and using smart technology such as Linux and open source to deliver outstanding customer and business outcomes.
-
+-->
 
 ---
 ## Technologies I want to learn more
