@@ -2,7 +2,7 @@
 [![Email](https://img.shields.io/badge/luke%40lukedudney.com-%2330B980.svg?logo=minutemailer&logoColor=white)](mailto:luke@lukedudney.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%23003A9B.svg?logo=inspire&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
 ## Hi there 👋
-I'm Luke -- a systems, infrastructure, cloud and DevOps engineer with over 25 years experience in IT across industries including Mining, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
+I'm Luke -- a systems, infrastructure, cloud and DevOps engineer with over 25 years experience in IT across industries including Mining, Energy, Professional Services, ISP/Telco, Media, Broadcasting and Publishing.
 
 For the past 10 years I have pursued my current passion for IT automation, Linux systems engineering, infrastructure architecture and AWS public cloud technologies. 
 
@@ -22,6 +22,7 @@ Perth, Western Australia
 * CI/CD
 * Linux Systems Engineering and Administration
 * Scalable Application Infrastructure Design
+* High Performance Computing (HPC) Infrastructure
 * Storage & Filesystems
 * Linux Performance Troubleshooting
 * Networking, TCP/IP, Routing and Network Troubleshooting
@@ -57,6 +58,7 @@ Perth, Western Australia
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-%238C4FFF.svg?logo=hashicorp&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-%23B41717.svg?logo=jinja&logoColor=white)
 
 
@@ -114,7 +116,37 @@ Perth, Western Australia
 
 ## Other Industry Recognition
 * [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
+* Professional Publication [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security.
+---
 
+## Location
+I am based in Perth, Western Australia and can  work remotely.
+
+I have also lived in London 🌧🏙️🌧
+
+## Work experience
+| Where | Industry | From/Until | As | Did |
+| --- | --- | --- | --- | --- |
+| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2021<br>Present | Senior DevOps Engineer - Cloud Platform | |
+| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2020<br> Feb 2021 | Senior DevOps Engineer - Integration Platform | |
+| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019<br> Feb 2021 | Senior Cloud Architect | |
+| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017<br> Aug 2019 | Senior Systems Engineer | |
+| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014<br> Sep 2017 | Solution Architect | |
+| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011<br> Aug 2014 | Senior Systems Engineer | |
+| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009<br> Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
+| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008<br> May 2009 | Senior Unix Systems Administrator | |
+| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007<br> Jun 2008 | Hosting and Operations Analyst | |
+| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
+
+<!--
+## Studies
+* Bachelor of Science (Computer Science), incomplete
+* Bachelor of Science (Physics), incomplete
+
+Straight out of high school in 1998 I completed two semesters of an undergraduate double degree in computer science and physics, my two intellectual catnips. The tiny regional internet service provider [WestNet](https://www.westnet.com.au/) I was casually working for at the time offered me a promotion and the opportunity to build and manage an Australia-wide communications network and the supporting server infrastructure needed to support the business plan. Over the next 8 years I helped to scale the business 400x from 10,000 to 400,000 customers which satisified my intellectual cravings for being at the forefront of the nascent internet and using smart technology such as Linux and open source to deliver outstanding customer and business outcomes.
+-->
+
+---
 ## Technologies I want to learn more
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
@@ -128,34 +160,9 @@ Perth, Western Australia
 * Apache JBOss
 * F5 Load Balancing
 * Fibre Channel and iSCSI
-* 
+
+
 ---
-
-
-## Location
-I am based in Perth, Western Australia and can  work remotely.
-
-I have also lived in London 🌧🏙️🌧
-
-## Work experience
-| Where | Industry | When | As | Did |
-| --- | --- | --- | --- | --- |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2021 - Present | Senior DevOps Engineer - Cloud Platform | |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2020 - Feb 2021 | Senior DevOps Engineer - Integration Platform | |
-| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019 - Feb 2021 | Senior Cloud Architect | |
-| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017 - Aug 2019 | Senior Systems Engineer | |
-| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014 - Sep 2017 | Solution Architect | |
-| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011 - Aug 2014 | Senior Systems Engineer | |
-| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009 - Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
-| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008 - May 2009 | Senior Unix Systems Administrator | |
-| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007 - Jun 2008 | Hosting and Operations Analyst | |
-| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999 - Jun 2007 | Head of Systems & Services | |
-
-## Studies
-* Bachelor of Science (Computer Science), incomplete
-* Bachelor of Science (Physics), incomplete
-
-Straight out of high school in 1998 I completed two semesters of an undergraduate double degree in computer science and physics, my two intellectual catnips. The tiny regional internet service provider [WestNet](https://www.westnet.com.au/) I was casually working for at the time offered me a promotion and the opportunity to build and manage an Australia-wide communications network and the supporting server infrastructure needed to support the business plan. Over the next 8 years I helped to scale the business 4000x from 10,000 to 400,000 customers which satisified my intellectual cravings for using smart technology to deliver outstanding customer and business outcomes.
 
 
 ## Open source projects
