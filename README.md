@@ -32,7 +32,8 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%238C4FFF.svg?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-%233670A0?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?logo=docker&logoColor=white)
 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=amazon-ec2&logoColor=white)
 ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%239146FF.svg?logo=aws-vpc&logoColor=white)
@@ -64,9 +65,11 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-%23FF6600?logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000?logo=red-hat&logoColor=white)
+![OpenWRT](https://img.shields.io/badge/OpenWRT-%2300B5E2?logo=openwrt&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-%23242424?logo=tailscale&logoColor=white)
+
 
 ![SLURM](https://img.shields.io/badge/Slurm-%23009FDA?logo=slurm&logoColor=white)
-
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
 
@@ -151,6 +154,9 @@ Straight out of high school in 1998 I completed two semesters of an undergraduat
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?logo=go&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-%23262261.svg?logo=linux-containers&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofy-%23FFDA18.svg?logo=opentofu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white)
 
 ## Technologies I have used in the past
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
@@ -161,16 +167,7 @@ Straight out of high school in 1998 I completed two semesters of an undergraduat
 * F5 Load Balancing
 * Fibre Channel and iSCSI
 
-
 ---
-
-
-## Open source projects
-
-The most famous being in order:
-
-
-More recent projects:
 
 ## Other
 - 
@@ -178,5 +175,6 @@ More recent projects:
 - My favourite emoji is 🤔
 - 🧁Muffins are surprisingly high in calories
 
+---
 
 🎉 Thanks for looking 👍
