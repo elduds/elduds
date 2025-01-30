@@ -23,10 +23,11 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 * Scalable Application Infrastructure Design
 * High Performance Computing (HPC) Infrastructure
 * Storage & Filesystems
+* Security
 * Linux Performance Troubleshooting
 * Networking, TCP/IP, Routing and Network Troubleshooting
 * Packet Capture Analysis
-  
+
 ## Technologies I ❤️ love to work with
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?logo=amazon-web-services&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white)
@@ -68,7 +69,6 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 ![OpenWRT](https://img.shields.io/badge/OpenWRT-%2300B5E2?logo=openwrt&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-%23242424?logo=tailscale&logoColor=white)
 
-
 ![SLURM](https://img.shields.io/badge/Slurm-%23009FDA?logo=slurm&logoColor=white)
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF9900?logo=esbuild&logoColor=white)
@@ -79,11 +79,9 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 ![Firewalls](https://img.shields.io/badge/Firewalls-%23CD5029?logo=firefly-iii&logoColor=white)
 ![WAF](https://img.shields.io/badge/WAF-%232C5BB4?logo=aiohttp&logoColor=white)
 
-
 ![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-%23607078?logo=vmware&logoColor=white)
 ![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20%26%20Nexus-%231BA0D7?logo=cisco&logoColor=white)
 ![NetApp](https://img.shields.io/badge/NetApp-%230067C5?logo=netapp&logoColor=white)
-
 
 ## Technologies I am 🤷‍♂️ OK with
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
@@ -92,6 +90,7 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![SUSE_Linux](https://img.shields.io/badge/SUSE%20Linux-%230C322C?logo=suse&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-%236D00CC?logo=make&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230061D5?logo=codesandbox&logoColor=white)
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
@@ -155,8 +154,12 @@ Straight out of high school in 1998 I completed two semesters of an undergraduat
 ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?logo=go&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-%23262261.svg?logo=linux-containers&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofy-%23FFDA18.svg?logo=opentofu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-%23FFDA18.svg?logo=opentofu&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
+![.env](https://img.shields.io/badge/.env-%23ECD53F.svg?logo=.env&logoColor=black)
+
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white)
 
 ## Technologies I have used in the past
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
