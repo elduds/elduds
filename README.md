@@ -30,6 +30,9 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 ## Technologies I ❤️ love to work with
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?logo=amazon-web-services&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%238C4FFF.svg?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=amazon-ec2&logoColor=white)
 ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%239146FF.svg?logo=aws-vpc&logoColor=white)
@@ -44,9 +47,7 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-%23FF9900.svg?logo=amazon-s3&logoColor=white)
 ![AWS Developer Tools](https://img.shields.io/badge/AWS%20Developer%20Tools-%23FF9900.svg?logo=aws-&logoColor=white)
 
-![Terraform](https://img.shields.io/badge/terraform-%238C4FFF.svg?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+
 ![CloudFormation](https://img.shields.io/badge/AWS%20Cloudformation-%2376BB21.svg?logo=hack-the-box&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
