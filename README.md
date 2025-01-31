@@ -1,4 +1,4 @@
-# Luke Dudney 
+# Luke Dudney
 [![Email](https://img.shields.io/badge/luke%40lukedudney.com-%2330B980.svg?logo=minutemailer&logoColor=white)](mailto:luke@lukedudney.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%23003A9B.svg?logo=inspire&logoColor=white)](https://www.linkedin.com/in/lukedudney/)
 
 ## Hello there 👋
@@ -181,3 +181,4 @@ Straight out of high school in 1998 I completed two semesters of an undergraduat
 ---
 
 🎉 Thanks for looking 👍
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=elduds.elduds)
