@@ -136,14 +136,14 @@ With annual revenue and market caps approaching 20 billion and 60 billion USD re
 
 
 ## Previous Work Experience
-| Where | From/Until | As | Did |
-| --- | --- | --- | --- | 
-| [ES2](https://www.es2.com.au/) |  Aug 2019<br> Feb 2021 | Senior Cloud Architect | Designed and delivered serverless data warehouse and analytics platform to finance customer leveraging AWS Lambda, S3, DynamoDB, Step Function, Glue, and Athena, reducing infrastructure costs from c. AUD50,000/yr to $5/month |
-| [KZN](https://kzn.io)  | Sep 2017<br> Aug 2019 | Senior Systems Engineer | |
-| [Xpanse](https://www.xpanse.com.au/) | Aug 2014<br> Sep 2017 | Solution Architect   | |
-| [iiNet](https://www.iinet.net.au/) |  Dec 2011<br> Aug 2014 | Senior Systems Engineer | |
-| London | Jun 2007<br>Dec 2011 | Various contract roles | Practical Law Company  <br> Bauer Media <br> Bauer Media <br> MTV Networks Europe|
-| [WestNet](https://www.westnet.com.au)  | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
+| Where | From/Until | As | 
+| --- | --- | --- | 
+| [ES2](https://www.es2.com.au/) |  Aug 2019<br> Feb 2021 | Cloud Architect
+| [KZN](https://kzn.io)  | Sep 2017<br> Aug 2019 | Senior Systems Engineer | 
+| [Xpanse](https://www.xpanse.com.au/) | Aug 2014<br> Sep 2017 | Solution Architect   | 
+| [iiNet](https://www.iinet.net.au/) |  Dec 2011<br> Aug 2014 | Senior Systems Engineer | 
+| London | Jun 2007<br>Dec 2011 | Various contract roles: <br>  Practical Law Company <br> Bauer Media <br> MTV Networks Europe|
+| [WestNet](https://www.westnet.com.au)  | Jun 1999<br> Jun 2007 | Head of Systems and Services 
 
 ---
 ## Other Industry Recognition
