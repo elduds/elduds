@@ -131,8 +131,8 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 With annual revenue and market caps approaching 20 billion and 60 billion USD respectively, it sits consistently in the ASX top 10 and is one of the most significant players in the global economy, providing a fast-paced and stimulating work environment.
 * ⏱️ ⚡Reduced AWS account provisioning time from weeks to hours by uplifting management system from ClickOps to fully automated CI/CD proces
 * 👩‍💻 😄 Improved company-wide developer experience and efficiency and and SDLC maturity by consolidating ~13 source code management and CI systems to [GitHub Enterprise](https://github.com) and promoting and championing inner source strategy
-* 🥼 🏙️ Enabled business-critical green enery products development by delivering and supporting computational fluid dynamics HPC supercomputing patterns and environments using [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/)
- * 💸 ✅ Delivered > AUD 2 million confirmed cloud cost optimisations via architecture analysis, right-sizing, and business application owner engagement
+* 🥼 🏙️ Enabled business-critical green enery products development by delivering and supporting computational fluid dynamics HPC supercomputing patterns and environments using [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/), Ubuntu Linux and Ansys Fluent
+* 💸 ✅ Delivered > AUD 2 million confirmed cloud cost optimisations via architecture analysis, right-sizing, and business application owner engagement
 
 
 ## Previous Work Experience
