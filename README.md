@@ -114,11 +114,45 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 * VMware Certified Professional – Data Centre Virtualisation
 * VMware Certified Professional - Cloud
 
-## Other Industry Recognition
-* [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
-* [Professional Publication](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) referenced in an [October 2006 memorandum](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) to the UK Parliament's Science & Technology Committee on Personal Internet Security.
+
 ---
 
+## Work Experience
+### Fortescue | Senior DevOps Engineer | February 2020 - Present
+<p>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_light.svg">
+    </picture>
+     <img alt="Fortescue Logo" src="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_light.svg" width=200>
+</p> 
+
+[Fortescue](https://www.fortescue.com/en) is a global green technology, energy and metals company that is working to accelerate commercial decarbonisation through heavy industry -- rapidly, profitably and globally. 
+With annual revenue and market caps approaching 20 billion and 60 billion USD respectively, it sits consistently in the ASX top 10 and is one of the most significant players in the global economy, providing a fast-paced and stimulating work environment.
+* ⏱️ ⚡Reduced AWS account provisioning time from weeks to hours by uplifting management system from ClickOps to fully automated CI/CD proces
+* 👩‍💻 😄 Improved company-wide developer experience and efficiency and and SDLC maturity by consolidating ~13 source code management and CI systems to [GitHub Enterprise](https://github.com) and promoting and championing inner source strategy
+* 🥼 🏙️ Enabled business-critical green enery products development by delivering and supporting computational fluid dynamics HPC supercomputing patterns and environments using [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/), Ubuntu Linux and Ansys Fluent
+* 💸 ✅ Delivered > AUD 2 million confirmed cloud cost optimisations via architecture analysis, right-sizing, and business application owner engagement
+
+
+## Previous Work Experience
+| Where | From/Until | As | Did |
+| --- | --- | --- | --- | 
+| [ES2](https://www.es2.com.au/) |  Aug 2019<br> Feb 2021 | Senior Cloud Architect | Designed and delivered serverless data warehouse and analytics platform to finance customer leveraging AWS Lambda, S3, DynamoDB, Step Function, Glue, and Athena, reducing infrastructure costs from c. AUD50,000/yr to $5/month |
+| [KZN](https://kzn.io)  | Sep 2017<br> Aug 2019 | Senior Systems Engineer | |
+| [Xpanse](https://www.xpanse.com.au/) | Aug 2014<br> Sep 2017 | Solution Architect   | |
+| [iiNet](https://www.iinet.net.au/) |  Dec 2011<br> Aug 2014 | Senior Systems Engineer | |
+| London | Jun 2007<br>Dec 2011 | Various contract roles | Practical Law Company  <br> Bauer Media <br> Bauer Media <br> MTV Networks Europe|
+| [WestNet](https://www.westnet.com.au)  | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
+
+---
+## Other Industry Recognition
+* 7x AWS Certified
+* [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
+* [Professional Publication](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) referenced in an [memorandum](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) to the UK Parliament's Science & Technology Committee on Personal Internet Security.
+
+
+---
 ## Location
 I am based in Perth, Western Australia and can  work remotely.
 
@@ -126,19 +160,6 @@ I am based in Perth, Western Australia and can  work remotely.
 
 I have also lived in London 🌧🏙️🌧
 
-## Work experience
-| Where | Industry | From/Until | As | Did |
-| --- | --- | --- | --- | --- |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2021<br>Present | Senior DevOps Engineer - Cloud Platform | |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2020<br> Feb 2021 | Senior DevOps Engineer - Integration Platform | |
-| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019<br> Feb 2021 | Senior Cloud Architect | |
-| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017<br> Aug 2019 | Senior Systems Engineer | |
-| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014<br> Sep 2017 | Solution Architect | |
-| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011<br> Aug 2014 | Senior Systems Engineer | |
-| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009<br> Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
-| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008<br> May 2009 | Senior Unix Systems Administrator | |
-| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007<br> Jun 2008 | Hosting and Operations Analyst | |
-| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
 
 <!--
 ## Studies
@@ -149,7 +170,7 @@ Straight out of high school in 1998 I completed two semesters of an undergraduat
 -->
 
 ---
-## Technologies I want to learn more
+## Technologies I have my eye on
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?logo=go&logoColor=white)
