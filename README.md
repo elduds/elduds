@@ -117,8 +117,37 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 ## Other Industry Recognition
 * [VMware vChampion](https://www.thewalk.au/our-work/incentivising-channel-partners/) 2012-2017 -- one of a handful of hand-picked elite architects from the VMware partner community
 * [Professional Publication](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) referenced in an [October 2006 memorandum](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) to the UK Parliament's Science & Technology Committee on Personal Internet Security.
+
 ---
 
+## Recent Work Experience
+### Fortescue 
+February 2020 - Present | Mining & Energy
+[Fortescue](https://www.fortescue.com/en) is a global green technology, energy and metals company that is working to accelerate commercial decarbonisation through heavy industry -- rapidly, profitably and globally. With annual revenue and market caps approaching 20 billion and 60 billion USD respectively, it sits consistently in the ASX top 10 and is one of the most significant players in the global economy, providing a fast-paced and stimulating work environment.
+
+| As | Did |
+| --- | --- |
+| Senior DevOps Engineer <br> Integration Platform | github | 
+
+
+| Where | From/Until | As | Did |
+| --- | --- | --- | --- | 
+| [Fortescue - Perth](https://www.fortescue.com/en) | Feb 2021<br>Present | Senior DevOps Engineer - Cloud Platform | |
+| [Fortescue - Perth](https://www.fortescue.com/en) | Feb 2020<br> Feb 2021 | Senior DevOps Engineer - Integration Platform | |
+| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019<br> Feb 2021 | Senior Cloud Architect | |
+| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017<br> Aug 2019 | Senior Systems Engineer | |
+
+## Previous Work Experience
+| Where | Industry | From/Until | As | Did |
+| --- | --- | --- | --- | --- |
+| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014<br> Sep 2017 | Solution Architect | |
+| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011<br> Aug 2014 | Senior Systems Engineer | |
+| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009<br> Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
+| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008<br> May 2009 | Senior Unix Systems Administrator | |
+| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007<br> Jun 2008 | Hosting and Operations Analyst | |
+| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
+
+---
 ## Location
 I am based in Perth, Western Australia and can  work remotely.
 
@@ -126,19 +155,6 @@ I am based in Perth, Western Australia and can  work remotely.
 
 I have also lived in London 🌧🏙️🌧
 
-## Work experience
-| Where | Industry | From/Until | As | Did |
-| --- | --- | --- | --- | --- |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2021<br>Present | Senior DevOps Engineer - Cloud Platform | |
-| [Fortescue - Perth](https://www.fortescue.com/en) | Mining & Energy | Feb 2020<br> Feb 2021 | Senior DevOps Engineer - Integration Platform | |
-| [ES2 - Perth](https://www.es2.com.au/) | Professional Services | Aug 2019<br> Feb 2021 | Senior Cloud Architect | |
-| [KZN - Perth](https://kzn.io) | Professional Services | Sep 2017<br> Aug 2019 | Senior Systems Engineer | |
-| [Xpanse - Perth](https://www.xpanse.com.au/) | Professional Services | Aug 2014<br> Sep 2017 | Solution Architect | |
-| [iiNet - Perth](https://www.iinet.net.au/) | Telecommunications | Dec 2011<br> Aug 2014 | Senior Systems Engineer | |
-| [Practical Law Company - London](https://anzlaw.thomsonreuters.com/Browse/Home/PracticalLawGlobal/Countries/UnitedKingdom?transitionType=Default&contextData=(sc.Default)&comp=plcau&navId=803F089F806F5E7E3221341813C32D5E) | Legal Publishing | May 2009<br> Dec 2011 | Operations Team Lead | DevOps before it was DevOps |
-| [Bauer Media - London](https://www.bauermedia.com/) | Publishing | Sep 2008<br> May 2009 | Senior Unix Systems Administrator | |
-| [MTV Networks Europe - London](https://www.mtv.co.uk/) | Broadcasting | Oct 2007<br> Jun 2008 | Hosting and Operations Analyst | |
-| [WestNet - Perth](https://www.westnet.com.au) | Telecommunications | Jun 1999<br> Jun 2007 | Head of Systems & Services | * Designed, developed and deployed ISP traffic billing system using Netflow, Solaris, Python and MySQL which successfully scaled 400x as the business grew<br> * Designed and deployed the first Anycast DNS Resolver service in the world (that I know of) <br> * Designed and deployed the first ISP Port Blocking service in the world (that I know of), [published](https://www.giac.org/paper/gsec/3524/internet-service-providers-mans-firewall-case-study-isp-port-blocking/105743) on Internet Security clearinghouse SANS and [referenced](https://publications.parliament.uk/pa/ld200607/ldselect/ldsctech/165/7041802.htm#note1) in an October 2006 memorandum to the UK Parliament's Science & Technology Committee on Personal Internet Security. |
 
 <!--
 ## Studies
@@ -149,7 +165,7 @@ Straight out of high school in 1998 I completed two semesters of an undergraduat
 -->
 
 ---
-## Technologies I want to learn more
+## Technologies I have my eye on
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?logo=pytest&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?logo=go&logoColor=white)
