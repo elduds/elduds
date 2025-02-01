@@ -119,10 +119,14 @@ Prior to that I focussed on enterprise datacentre and internet platforms such as
 
 ## Work Experience
 ### Fortescue | Senior DevOps Engineer | February 2020 - Present
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_light.svg">
-</picture>
+<p>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_light.svg">
+    </picture>
+     <img alt="Fortescue Logo" src="https://raw.githubusercontent.com/elduds/elduds/refs/heads/main/img/fortescue_logo_light.svg" width=200>
+</p> 
+
 [Fortescue](https://www.fortescue.com/en) is a global green technology, energy and metals company that is working to accelerate commercial decarbonisation through heavy industry -- rapidly, profitably and globally. 
 With annual revenue and market caps approaching 20 billion and 60 billion USD respectively, it sits consistently in the ASX top 10 and is one of the most significant players in the global economy, providing a fast-paced and stimulating work environment.
 * ⏱️ ⚡Reduced AWS account provisioning time from weeks to hours by uplifting management system from ClickOps to fully automated CI/CD proces
